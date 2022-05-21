@@ -1571,8 +1571,7 @@ ol {
 @media only screen and (min-width: 768px) and (max-width: 991px) {
 	.header-bar-warp {
 		padding: 39px 15px 0;
-		width: auto;
-		height: auto;
+		
 	}
 	.main-menu li a {
 		margin-right: 10px;

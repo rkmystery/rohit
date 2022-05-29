@@ -10,6 +10,10 @@
 /*----------------------------------------*/
 /* Template default CSS
 /*----------------------------------------*/
+.featured-bg{
+	width: 100%;
+	height: auto;
+}
 .img {
 	border: 6px solid #555;
   }

@@ -16,6 +16,9 @@
 }
 .img {
 	border: 6px solid #555;
+	border-radius: 6px;
+	width: 30%;
+    
   }
 html,
 body {
